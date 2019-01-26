@@ -24,9 +24,11 @@ Step-Motor NMEA17 [Step-Motor link]
 
 [Step-Motor link]: https://www.banggood.com/Nema-17-42mm-12V-Hybrid-Two-Phase-Stepper-Motor-For-3D-Printer-p-1164619.html?rmmds=search&cur_warehouse=CN
 
-Servo-Motor Driver PCA9685 [Servo-Motor Driver link]
+Servo-Motor Driver PCA9685 [Servo-Motor Driver link] library [adafruit-servo-lib]
 
 [Servo-Motor Driver link]: https://www.banggood.com/Arduino-16-Road-PWMServoSteering-Gear-Drive-Plate-Controller-Robot-IIC-PCA9685-p-1263963.html?rmmds=search&cur_warehouse=CN
+
+[adafruit-servo-lib]: https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library
 
 Options (not all tested)
 
