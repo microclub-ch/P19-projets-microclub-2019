@@ -5,9 +5,10 @@ Meeting presentation 26.1.2019: [link to presentation]
 
 [link to presentation]: https://microclub.ch/wp-content/uploads/2019/01/Project-2019.pdf
 
-Recommanded Material (Tested)
+Recommanded Material from banggood(Tested)
 
-[ESP32 doit Devkit V1] (https://www.banggood.com/ESP32-Development-Board-WiFiBluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1109512.html?rmmds=search&cur_warehouse=CN)
+ESP32 36 pin version Devkit V1 [ESP32-link]
+[ESP32link]: https://www.banggood.com/ESP32-Development-Board-WiFiBluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1109512.html?rmmds=search&cur_warehouse=CN
 
 H-Bridge DRV8825 [H-Bridge]
 
@@ -16,7 +17,7 @@ H-Bridge DRV8825 [H-Bridge]
 Gyro MPU9250 [gyro]
 [Gyro]: (https://www.banggood.com/GY-91-MPU9250-BMP280-10DOF-Acceleration-Gyroscope-Compass-Nine-Shaft-Sensor-Module-p-1129541.html?rmmds=search&cur_warehouse=CN)
 
-Step-Motor NMEA17 [Stel-Motor link]
+Step-Motor NMEA17 [Step-Motor link]
 
 [Step-Motor link]: https://www.banggood.com/Nema-17-42mm-12V-Hybrid-Two-Phase-Stepper-Motor-For-3D-Printer-p-1164619.html?rmmds=search&cur_warehouse=CN
 
