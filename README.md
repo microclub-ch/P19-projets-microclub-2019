@@ -32,7 +32,7 @@ Options (not all tested)
 
 audio-module [Audio link] 
 
-[Audio link]: https://www.banggood.com/WTV020-Audio-Module-MP3-Player-With-MicroSD-Card-Reader-For-Arduino-p-1244473.html?rmmds=search&cur_warehouse=CN
+[Audio link]: https://www.banggood.com/DFPlayer-Mini-MP3-Player-Module-For-Arduino-p-969191.html?rmmds=search&cur_warehouse=CN
 
 Neopixel circle [neo-link]
 
