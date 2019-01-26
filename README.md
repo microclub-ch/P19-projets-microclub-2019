@@ -9,11 +9,11 @@ Recommanded Material from banggood(Tested)
 
 ESP32 36 pin version Devkit V1 [ESP32-link]
 
-[ESP32link]: https://www.banggood.com/ESP32-Development-Board-WiFiBluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1109512.html?rmmds=search&cur_warehouse=CN
+[ESP32-link]: https://www.banggood.com/ESP32-Development-Board-WiFiBluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1109512.html?rmmds=search&cur_warehouse=CN
 
 H-Bridge DRV8825 [H-Bridge]
 
-[H-Bridge DRV8825]: https://www.banggood.com/3Pcs-3D-Printer-Stepstick-DRV8825-Stepper-Driver-Reprap-4-Layer-PCB-p-1052018.html?rmmds=search&cur_warehouse=CN
+[H-Bridge]: https://www.banggood.com/3Pcs-3D-Printer-Stepstick-DRV8825-Stepper-Driver-Reprap-4-Layer-PCB-p-1052018.html?rmmds=search&cur_warehouse=CN
 
 Gyro MPU9250 [gyro link]
 
