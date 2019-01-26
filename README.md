@@ -45,6 +45,9 @@ Cercle Neopixel, d'autres basées sur WD2812 fonctionnent également  [neo-link]
 
 [neo-link]: https://www.banggood.com/CJMCU-61-Bit-WS2812-5050-RGB-LED-Driver-Development-Board-p-1008123.html?rmmds=detail-left-hotproducts__8&cur_warehouse=CN
 
-Outil de développement actuel (pour avr, ESP8266, ESP32) Une amélioration importante par rapport à Arduino IDE: [Platformio] !! attention, ne pas installer la version ATOM !
+## Outil de développement actuel (pour avr, ESP8266, ESP32) 
+
+PlatformIO, Une amélioration importante par rapport à Arduino IDE: [Platformio] !! attention, ne pas installer la version ATOM !
+Permet d'utiliser toutes les librairies Arduino, Adafruit etc.
 
 [Platformio]: https://code.visualstudio.com/
