@@ -15,9 +15,9 @@ H-Bridge DRV8825 [H-Bridge]
 
 [H-Bridge]: https://www.banggood.com/3Pcs-3D-Printer-Stepstick-DRV8825-Stepper-Driver-Reprap-4-Layer-PCB-p-1052018.html?rmmds=search&cur_warehouse=CN
 
-Gyro MPU9250 [gyro link]
+Gyro MPU9250 [gyro_link]
 
-[gyro link]: (https://www.banggood.com/GY-91-MPU9250-BMP280-10DOF-Acceleration-Gyroscope-Compass-Nine-Shaft-Sensor-Module-p-1129541.html?rmmds=search&cur_warehouse=CN)
+[gyro_link]: (https://www.banggood.com/GY-91-MPU9250-BMP280-10DOF-Acceleration-Gyroscope-Compass-Nine-Shaft-Sensor-Module-p-1129541.html?rmmds=search&cur_warehouse=CN)
 
 Step-Motor NMEA17 [Step-Motor link]
 
