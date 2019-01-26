@@ -1,11 +1,12 @@
-# Project2019, shopping list
+# Project2019
 Common ESP32 platform for robotics, home appliances, 
 
-Meeting presentation 26.1.2019: [link to presentation]
+##Meeting presentation 26.1.2019: [link to presentation]
 
 [link to presentation]: https://microclub.ch/wp-content/uploads/2019/01/Project-2019.pdf
 
-Recommanded Material from banggood(Tested)
+## Shopping list (draft)
+###Recommanded Material from banggood(Tested)
 
 ESP32 36 pin version Devkit V1 [ESP32-link]
 
