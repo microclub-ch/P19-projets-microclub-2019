@@ -1,7 +1,7 @@
 # projets-microclub-2019
 Common ESP32 platform robotique, domotique et plus 
 
-## Présentation du 26.1.2019 à l'EPFL: [lien vers la présentation]
+### Présentation du 26.1.2019 à l'EPFL: [lien vers la présentation]
 
 [lien vers la présentation]: https://microclub.ch/wp-content/uploads/2019/01/Project-2019.pdf
 
