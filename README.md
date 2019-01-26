@@ -1,4 +1,4 @@
-# Project2019
+# projets-microclub-2019
 Common ESP32 platform for robotics, home appliances, 
 
 ## Meeting presentation 26.1.2019: [link to presentation]
