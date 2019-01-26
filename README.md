@@ -1,6 +1,8 @@
 # Project2019
 Common ESP32 platform for robotics, home appliances, 
 
+[Meeting presentation 26.1.2019] [shortcut]: https://microclub.ch/wp-content/uploads/2019/01/Project-2019.pdf
+
 Recommanded Material (Tested)
 
 [ESP32 doit Devkit V1] (https://www.banggood.com/ESP32-Development-Board-WiFiBluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1109512.html?rmmds=search&cur_warehouse=CN)
