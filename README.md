@@ -13,3 +13,5 @@ Recommanded Material (Tested)
 
 [Servo-Motor Driver PCA9685] (https://www.banggood.com/Arduino-16-Road-PWMServoSteering-Gear-Drive-Plate-Controller-Robot-IIC-PCA9685-p-1263963.html?rmmds=search&cur_warehouse=CN)
 
+[Audio module] (https://www.banggood.com/WTV020-Audio-Module-MP3-Player-With-MicroSD-Card-Reader-For-Arduino-p-1244473.html?rmmds=search&cur_warehouse=CN)
+
