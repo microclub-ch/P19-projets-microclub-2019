@@ -1,9 +1,13 @@
 # projets-microclub-2019
 Common ESP32 platform for robotics, home appliances, 
 
-## Meeting presentation 26.1.2019: [link to presentation]
+## Présentation du 26.1.2019 à l'EPFL: [link to presentation]
 
 [link to presentation]: https://microclub.ch/wp-content/uploads/2019/01/Project-2019.pdf
+
+[livre]: https://leanpub.com/kolban-ESP32
+
+Livre electronique: [livre]
 
 ## Shopping list (draft)
 ### Recommanded Material from banggood(Tested)
