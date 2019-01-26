@@ -1,4 +1,4 @@
-# Project2019
+# Project2019, shopping list
 Common ESP32 platform for robotics, home appliances, 
 
 Meeting presentation 26.1.2019: [link to presentation]
