@@ -30,9 +30,10 @@ Servo-Motor Driver PCA9685 [Servo-Motor Driver link]
 
 Options (not all tested)
 
-audio-module [Audio link] 
+audio-module [Audio link] doc [audio-doc]
 
 [Audio link]: https://www.banggood.com/DFPlayer-Mini-MP3-Player-Module-For-Arduino-p-969191.html?rmmds=search&cur_warehouse=CN
+[Audio-doc]: https://www.dfrobot.com/product-1121.html
 
 Neopixel circle [neo-link]
 
