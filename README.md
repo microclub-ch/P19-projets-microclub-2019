@@ -20,6 +20,10 @@ Pont en H DRV8825 [H-Bridge]
 
 [H-Bridge]: https://www.banggood.com/3Pcs-3D-Printer-Stepstick-DRV8825-Stepper-Driver-Reprap-4-Layer-PCB-p-1052018.html?rmmds=search&cur_warehouse=CN
 
+Pont en H pour moteurs DC [DC-driver]
+
+[DC-driver]: https://www.pololu.com/product/2135
+
 Gyro MPU9250 + Baro BMP280 [gyro link]
 
 [gyro link]: https://www.banggood.com/GY-91-MPU9250-BMP280-10DOF-Acceleration-Gyroscope-Compass-Nine-Shaft-Sensor-Module-p-1129541.html?rmmds=search&cur_warehouse=CN
