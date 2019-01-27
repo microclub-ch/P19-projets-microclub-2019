@@ -20,7 +20,7 @@ Pont en H DRV8825 [H-Bridge]
 
 [H-Bridge]: https://www.banggood.com/3Pcs-3D-Printer-Stepstick-DRV8825-Stepper-Driver-Reprap-4-Layer-PCB-p-1052018.html?rmmds=search&cur_warehouse=CN
 
-Pont en H pour moteurs DC [DC-driver]
+Pont en H pour moteurs DC [DC-pololu]
 
 [DC-driver]: https://www.pololu.com/product/2135
 
