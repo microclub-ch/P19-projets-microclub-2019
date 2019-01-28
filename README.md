@@ -12,9 +12,8 @@ Livre electronique: [livre]
 ## Liste d'achats (pour information et provisoire, peut changer!)
 Matériel testé
 
-ESP32 36 pin version Devkit V1 [ESP32-link]
+ESP32 36 pin version Devkit V1, une nouvelle version 38 pins compatible WRover est en discussion.
 
-[ESP32-link]: https://www.banggood.com/ESP32-Development-Board-WiFiBluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1109512.html?rmmds=search&cur_warehouse=CN
 
 Pont en H DRV8825 [H-Bridge]
 
