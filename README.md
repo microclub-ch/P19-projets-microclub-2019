@@ -23,9 +23,9 @@ Pont en H pour moteurs DC [DC-pololu]
 
 [DC-driver]: https://www.pololu.com/product/2135
 
-Gyro MPU9250 + Baro BMP280 [gyro link]
+! nouveau gyro avec baro et ligne d'interruption: Gyro MPU9250 + Baro BMP280 [gyro link]
 
-[gyro link]: https://www.banggood.com/GY-91-MPU9250-BMP280-10DOF-Acceleration-Gyroscope-Compass-Nine-Shaft-Sensor-Module-p-1129541.html?rmmds=search&cur_warehouse=CN
+[gyro link]: https://www.banggood.com/MPU9250BMP280-10DOF-GY-91-Acceleration-Gyroscope-Compass-Nine-Shaft-Sensor-Module-For-Arduino-p-1100982.html?rmmds=myorder&cur_warehouse=CN
 
 Moteur pas à pas NMEA17 [Step-Motor link]
 
