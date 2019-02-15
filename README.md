@@ -54,3 +54,7 @@ PlatformIO, Une amélioration importante par rapport à Arduino IDE: [Platformio
 Permet d'utiliser toutes les librairies Arduino, Adafruit etc.
 
 [Platformio]: https://code.visualstudio.com/
+
+Nouveau sur la version Split, 2 connecteurs pour des capteurs Time of Flight type  GY-53 VL53L0X ou VL53L1X permettant de mesurer avec précision des distances de 2 ou 4m !!! en plus un connecteur pour utiliser le convertisseur ADC si les capteurs IR ne sont pas installés.
+Un circuit MCP23017 donne 8 lignes IO, les premières 8 lignes sont utilisée pour intercepter les interruptions des divers circuits de la carte:
+
