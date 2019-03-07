@@ -48,6 +48,10 @@ Cercle Neopixel, d'autres basées sur WD2812 fonctionnent également  [neo-link]
 
 [neo-link]: https://www.banggood.com/CJMCU-61-Bit-WS2812-5050-RGB-LED-Driver-Development-Board-p-1008123.html?rmmds=detail-left-hotproducts__8&cur_warehouse=CN
 
+Module alimentation 24-12V-5V  [alim-link]
+
+[alim-link]: https://www.banggood.com/DC-DC-5V-3A-Power-Supply-Module-Buck-Step-Down-Regulator-Module-24V-12V-9V-To-5V-Fixed-Output-p-1177912.html?rmmds=search&cur_warehouse=CN
+
 ## Outil de développement actuel (pour avr, ESP8266, ESP32) 
 
 PlatformIO, Une amélioration importante par rapport à Arduino IDE: [Platformio] !! attention, ne pas installer la version ATOM !
