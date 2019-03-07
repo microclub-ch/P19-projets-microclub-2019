@@ -12,7 +12,9 @@ Livre electronique: [livre]
 ## Liste d'achats (pour information et provisoire, peut changer!)
 Matériel testé
 
-ESP32 36 pin version Devkit V1, une nouvelle version 38 pins compatible WRover est en discussion.
+ESP32 36 pin version Devkit V1, une nouvelle version 38 pins compatible WRover [Wroom-link].
+
+[Wroom-link]:
 
 
 Pont en H DRV8825 [H-Bridge]
