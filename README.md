@@ -14,7 +14,7 @@ Matériel testé
 
 ESP32 36 pin version Devkit V1, une nouvelle version 38 pins compatible WRover [Wroom-link].
 
-[Wroom-link]:
+[Wroom-link]:https://www.banggood.com/WeMos-ESP32-WiFi-Bluetooth-Development-Board-Ultra-Low-Power-Consumption-Dual-Core-ESP-32-ESP-32S-p-1175488.html?rmmds=myorder&cur_warehouse=CN
 
 
 Pont en H DRV8825 [H-Bridge]
